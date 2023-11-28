@@ -1,0 +1,17 @@
+{
+  "name": "messing-with-jquery-ajax",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kvarzsiev/messing-with-jquery-ajax.git",
+  "author": "Kvarzsiev <99659392+Kvarzsiev@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "eslint": "^8.54.0",
+    "global": "^4.4.0",
+    "jquery": "^3.7.1"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.14.0"
+  }
+}
